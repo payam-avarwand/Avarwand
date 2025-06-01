@@ -4,3 +4,6 @@
 [submodule "Cell Marker"]
 	path = Cell Marker
 	url = git@github.com:payam-avarwand/Cell-Marker.git
+[submodule "py2exe"]
+	path = py2exe
+	url = git@github.com:payam-avarwand/Py-To-Exe-Converter.git
