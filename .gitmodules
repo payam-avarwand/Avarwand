@@ -7,3 +7,6 @@
 [submodule "Py-To-Exe Converter"]
 	path = Py-To-Exe Converter
 	url = git@github.com:payam-avarwand/Py-To-Exe-Converter.git
+[submodule "Wikipedia Contribution Finder"]
+	path = Wikipedia Contribution Finder
+	url = git@github.com:payam-avarwand/Wikipedia-Contribution-Finder.git
