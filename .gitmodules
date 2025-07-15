@@ -10,3 +10,18 @@
 [submodule "Wikipedia Contribution Finder"]
 	path = Wikipedia Contribution Finder
 	url = git@github.com:payam-avarwand/Wikipedia-Contribution-Finder.git
+[submodule "Wiki Tazeh"]
+	path = Wiki Tazeh
+	url = git@github.com:payam-avarwand/Wiki-Tazeh.git
+[submodule "PS1 to Exe Converter"]
+	path = PS1 to Exe Converter
+	url = git@github.com:payam-avarwand/PS1-to-Exe-Converter.git
+[submodule "Portable Software Manager"]
+	path = Portable Software Manager
+	url = git@github.com:payam-avarwand/Portable-Software-Manager.git
+[submodule "MSI Property Explorer"]
+	path = MSI Property Explorer
+	url = git@github.com:payam-avarwand/MSI-Property-Explorer.git
+[submodule "MSI Installer"]
+	path = MSI Installer
+	url = git@github.com:payam-avarwand/MSI-Installer.git
