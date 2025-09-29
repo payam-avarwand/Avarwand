@@ -25,3 +25,6 @@
 [submodule "MSI Installer"]
 	path = MSI Installer
 	url = git@github.com:payam-avarwand/MSI-Installer.git
+[submodule "A Back"]
+	path = A Back
+	url = git@github.com:payam-avarwand/A-Back.git
