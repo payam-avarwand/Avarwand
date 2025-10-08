@@ -28,3 +28,6 @@
 [submodule "A Back"]
 	path = A Back
 	url = git@github.com:payam-avarwand/A-Back.git
+[submodule "PDF to SVG Converter"]
+	path = PDF to SVG Converter
+	url = git@github.com:payam-avarwand/PDF-to-SVG-Converter.git
