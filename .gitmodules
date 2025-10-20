@@ -34,3 +34,6 @@
 [submodule "WebP to Jpg Converter"]
 	path = WebP to Jpg Converter
 	url = git@github.com:payam-avarwand/WebP-to-Jpg-Converter.git
+[submodule "AYD"]
+	path = AYD
+	url = git@github.com:payam-avarwand/AYD.git
