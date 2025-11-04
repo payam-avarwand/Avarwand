@@ -31,9 +31,9 @@
 [submodule "PDF to SVG Converter"]
 	path = PDF to SVG Converter
 	url = git@github.com:payam-avarwand/PDF-to-SVG-Converter.git
-[submodule "WebP to Jpg Converter"]
-	path = WebP to Jpg Converter
-	url = git@github.com:payam-avarwand/WebP-to-Jpg-Converter.git
 [submodule "AYD"]
 	path = AYD
 	url = git@github.com:payam-avarwand/AYD.git
+[submodule "APC"]
+	path = APC
+	url = git@github.com:payam-avarwand/APC.git
