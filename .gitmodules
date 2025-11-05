@@ -1,39 +1,39 @@
 [submodule "SSCM"]
-	path = SSCM
+	path = Software/SSCM
 	url = git@github.com:payam-avarwand/SSCM.git
 [submodule "Cell Marker"]
-	path = Cell Marker
+	path = Software/Cell Marker
 	url = git@github.com:payam-avarwand/Cell-Marker.git
 [submodule "Py-To-Exe Converter"]
-	path = Py-To-Exe Converter
+	path = Software/Py-To-Exe Converter
 	url = git@github.com:payam-avarwand/Py-To-Exe-Converter.git
 [submodule "Wikipedia Contribution Finder"]
-	path = Wikipedia Contribution Finder
+	path = Software/Wikipedia Contribution Finder
 	url = git@github.com:payam-avarwand/Wikipedia-Contribution-Finder.git
 [submodule "Wiki Tazeh"]
-	path = Wiki Tazeh
+	path = Software/Wiki Tazeh
 	url = git@github.com:payam-avarwand/Wiki-Tazeh.git
 [submodule "PS1 to Exe Converter"]
-	path = PS1 to Exe Converter
+	path = Software/PS1 to Exe Converter
 	url = git@github.com:payam-avarwand/PS1-to-Exe-Converter.git
 [submodule "Portable Software Manager"]
-	path = Portable Software Manager
+	path = Software/Portable Software Manager
 	url = git@github.com:payam-avarwand/Portable-Software-Manager.git
 [submodule "MSI Property Explorer"]
-	path = MSI Property Explorer
+	path = Software/MSI Property Explorer
 	url = git@github.com:payam-avarwand/MSI-Property-Explorer.git
 [submodule "MSI Installer"]
-	path = MSI Installer
+	path = Software/MSI Installer
 	url = git@github.com:payam-avarwand/MSI-Installer.git
 [submodule "A Back"]
-	path = A Back
+	path = Software/A Back
 	url = git@github.com:payam-avarwand/A-Back.git
 [submodule "PDF to SVG Converter"]
-	path = PDF to SVG Converter
+	path = Software/PDF to SVG Converter
 	url = git@github.com:payam-avarwand/PDF-to-SVG-Converter.git
 [submodule "AYD"]
-	path = AYD
+	path = Software/AYD
 	url = git@github.com:payam-avarwand/AYD.git
 [submodule "APC"]
-	path = APC
+	path = Software/APC
 	url = git@github.com:payam-avarwand/APC.git
