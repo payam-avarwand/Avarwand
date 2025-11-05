@@ -1,0 +1,28 @@
+END USER LICENSE AGREEMENT (EULA)
+
+This software, titled "PS1 to Exe Converter", is developed and provided by Payam Avarwand, and is distributed free of charge for both personal and commercial use.
+
+By installing, copying, or using this software, you agree to the following terms:
+
+1. LICENSE GRANT
+   You are hereby granted a non-exclusive, non-transferable license to install and use this software on your personal or business devices.
+
+2. RESTRICTIONS
+   - You may not reverse engineer, decompile, disassemble, or alter any part of this software.
+   - You may not redistribute, sublicense, rent, lease, or sell the software or any of its components.
+   - You may not represent this software as your own or claim any ownership of it.
+   - You may not use this software for unlawful, malicious, or harmful purposes.
+
+3. OWNERSHIP
+   All rights, title, and intellectual property associated with this software remain exclusively with Payam Avarwand.
+
+4. DISCLAIMER OF WARRANTY
+   This software is provided “AS IS”, without warranties of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.  
+   Under no circumstances shall the author be held liable for any damages or losses resulting from the use or inability to use this software.
+
+5. TERMINATION
+   This license shall terminate automatically if you fail to comply with any of the terms in this agreement. Upon termination, you must cease all use of the software and destroy all copies.
+
+---
+
+© 2025 Payam Avarwand. All rights reserved.

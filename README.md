@@ -1,1 +1,1 @@
-Avarwand's Software Production
+AVARWAND
