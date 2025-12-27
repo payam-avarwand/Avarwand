@@ -25,9 +25,6 @@
 [submodule "Software/A Back"]
 	path = Software/A Back
 	url = git@github.com:payam-avarwand/A-Back.git
-[submodule "Software/PDF to SVG Converter"]
-	path = Software/PDF to SVG Converter
-	url = git@github.com:payam-avarwand/PDF-to-SVG-Converter.git
 [submodule "Software/AYD"]
 	path = Software/AYD
 	url = git@github.com:payam-avarwand/AYD.git
