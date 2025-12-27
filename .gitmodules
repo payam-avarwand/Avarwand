@@ -43,3 +43,6 @@
 [submodule "Software/Avarwand NE"]
 	path = Software/Avarwand NE
 	url = git@github.com:payam-avarwand/Avarwand-NE.git
+[submodule "Software/A PDF Converter"]
+	path = Software/A PDF Converter
+	url = git@github.com:payam-avarwand/A-PDF-Converter.git
