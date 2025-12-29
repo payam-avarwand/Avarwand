@@ -46,3 +46,6 @@
 [submodule "Software/A PDF Converter"]
 	path = Software/A PDF Converter
 	url = git@github.com:payam-avarwand/A-PDF-Converter.git
+[submodule "Software/A Batch File Zipper"]
+	path = Software/A Batch File Zipper
+	url = git@github.com:payam-avarwand/A-Batch-File-Zipper.git
