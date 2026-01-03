@@ -49,3 +49,6 @@
 [submodule "Software/A Batch File Zipper"]
 	path = Software/A Batch File Zipper
 	url = git@github.com:payam-avarwand/A-Batch-File-Zipper.git
+[submodule "Software/A Music Visualizer"]
+	path = Software/A Music Visualizer
+	url = git@github.com:payam-avarwand/A-Music-Visualizer.git
