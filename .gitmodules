@@ -52,3 +52,6 @@
 [submodule "Software/A Music Visualizer"]
 	path = Software/A Music Visualizer
 	url = git@github.com:payam-avarwand/A-Music-Visualizer.git
+[submodule "Software/ADCm"]
+	path = Software/ADCm
+	url = git@github.com:payam-avarwand/ADCm.git
