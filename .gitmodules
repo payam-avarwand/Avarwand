@@ -52,3 +52,6 @@
 [submodule "Software/ADCm"]
 	path = Software/ADCm
 	url = git@github.com:payam-avarwand/ADCm.git
+[submodule "Software/ANE"]
+	path = Software/ANE
+	url = git@github.com:payam-avarwand/ANE.git
