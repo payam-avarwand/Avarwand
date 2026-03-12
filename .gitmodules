@@ -58,3 +58,6 @@
 [submodule "Software/ADCR"]
 	path = Software/ADCR
 	url = git@github.com:payam-avarwand/ADCR.git
+[submodule "Software/ADGm"]
+	path = Software/ADGm
+	url = git@github.com:payam-avarwand/ADGm.git
