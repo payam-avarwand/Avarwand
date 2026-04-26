@@ -1,9 +1,6 @@
 [submodule "Software/SSCM"]
 	path = Software/SSCM
 	url = git@github.com:payam-avarwand/SSCM.git
-[submodule "Software/Cell Marker"]
-	path = Software/Cell Marker
-	url = git@github.com:payam-avarwand/Cell-Marker.git
 [submodule "Software/Py-To-Exe Converter"]
 	path = Software/Py-To-Exe Converter
 	url = git@github.com:payam-avarwand/Py-To-Exe-Converter.git
