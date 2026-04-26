@@ -61,3 +61,6 @@
 [submodule "Software/AYCM"]
 	path = Software/AYCM
 	url = git@github.com:payam-avarwand/AYCM.git
+[submodule "Software/ACSVm"]
+	path = Software/ACSVm
+	url = git@github.com:payam-avarwand/ACSVm.git
