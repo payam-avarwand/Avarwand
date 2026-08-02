@@ -82,3 +82,6 @@
 [submodule "Software/ADm"]
 	path = Software/ADm
 	url = git@github.com:avarwand/ADm.git
+[submodule "Software/AOAm"]
+	path = Software/AOAm
+	url = git@github.com:avarwand/AOAm.git
