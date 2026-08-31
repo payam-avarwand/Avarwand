@@ -88,3 +88,6 @@
 [submodule "Software/AFTS"]
 	path = Software/AFTS
 	url = git@github.com:avarwand/AFTS.git
+[submodule "Software/Huzi Media Player"]
+	path = Software/Huzi Media Player
+	url = git@github.com:avarwand/Huzi-Media-Player.git
