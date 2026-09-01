@@ -24,10 +24,10 @@ All Avarwand tools are introduced, demonstrated through the official **Avarwand 
 📺 **[youtube.com/@AvarwandS](https://www.youtube.com/@AvarwandS)**
 
 On the channel you'll find:
-- 🎥 **Tool introductions** — What each tool does and why it was built
-- 📋 **Step-by-step tutorials** — How to get started quickly
-- 💡 **Tips & use cases** — Getting the most out of each utility
-- 🔔 **Update announcements** — New tools and feature releases
+- 🎥 **Tool introductions**: What each tool does and why it was built
+- 📋 **Step-by-step tutorials**: How to get started quickly
+- 💡 **Tips & use cases**: Getting the most out of each utility
+- 🔔 **Update announcements**: New tools and feature releases
 
 **Subscribe** to stay notified whenever a new tool drops.
 
@@ -75,7 +75,7 @@ Feel free to open an **Issue** on any individual tool's repository or comment in
 
 ## 📄 License
 
-All tools published under the **Avarwand Software** project are released as **freeware** , free to use for personal and non-commercial purposes.
+All tools published under the **Avarwand Software** project are released as **freeware** , free to use.
 Please refer to the `LICENSE` file within each individual tool's repository for its specific terms.
 
 ---
